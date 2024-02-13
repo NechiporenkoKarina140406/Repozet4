@@ -1,4 +1,4 @@
-0: Hello, world1 - frome remote
+0: Hello, world1 - from remote
 1: Hello, world! 
 2: Hello, world!
 3: Hello, world!
